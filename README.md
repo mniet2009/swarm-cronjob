@@ -38,7 +38,7 @@ making a [Paypal donation](https://www.paypal.me/crazyws) to ensure this journey
 
 Thanks again for your support, it is much appreciated! :pray:
 
-## License
+## License......................
 
 MIT. See `LICENSE` for more details.<br/>
 Icon credit to [Laurel](https://twitter.com/laurelcomics).
