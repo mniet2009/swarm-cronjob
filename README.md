@@ -2,7 +2,6 @@
 
 
 
-
 <p align="center"><a href="https://crazymax.dev/swarm-cronjob/" target="_blank"><img height="128" src="https://raw.githubusercontent.com/crazy-max/swarm-cronjob/master/.github/swarm-cronjob.png"></a></p>
 
 <p align="center">
